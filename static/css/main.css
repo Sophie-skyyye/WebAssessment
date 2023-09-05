@@ -6,6 +6,7 @@ nav{
     position: relative;
     font-family: Graphik,Helvetica Neue,Helvetica,arial,sans-serif;
     font-weight: 400;
+    font-size: larger;
 }
 
 nav ul{
@@ -46,6 +47,9 @@ nav a:hover {
     font-family: Graphik,Helvetica Neue,Helvetica,arial,sans-serif;
     font-size: 2rem;
     font-weight: 700;
+    font-size: 2.3125rem;
+    line-height: 1.18918919;
+    width: 41.66666667%;
     letter-spacing: -.005em;
     line-height: 1.1875;
     margin: 0;
@@ -54,8 +58,20 @@ nav a:hover {
     position: relative;
     text-transform: uppercase;
     background-color: #194D;
-    width: 30%;
+    width: 50%;
+    justify-content: end;
+    margin: 0;
+    box-sizing: border-box;
 
+}
+
+h2{
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #1d1d1b;
 }
 
 .dreamText{
@@ -64,9 +80,17 @@ nav a:hover {
     padding-top: 1.5rem;
     padding-left: 12px;
     padding-right: 12px;
-    position: relative;
-    display: block;
-    width: 24%;
+    position: relative;   
+    width: 50%;   
+    background-color: #526c87;
+    line-height: 1px;
+    margin: 0;
+    box-sizing: border-box;
     
-    background-color: ;
+}
+
+.dreamText p{
+    display: flex;
+    justify-content: end;
+    font-size: large;
 }

@@ -22,10 +22,12 @@
 
 <h2 class = "title">Your dream Honda is waiting…</h2>
 <div class = "dreamText">
-    <p>
-        The Honda C-RX one of the worlds most under rated honda's. 
-        Yes it leaks and squeaks when it rains and most of the parts are discontinued
-    </p>
+    <p>The Honda C-RX one of the worlds most under rated honda's of all time.</p>
+    <p>Yes it leaks and squeaks when it rains and most of the parts are discontinued </p>
+    <p>but, that wont stop you from having the best summer of your life. The Del sol </p>
+    <p>fetures a removable hard targa-top for the sunny days, personal safes behind the </p>
+    <p>seats to store any of your personal items while you are taking a dip at the beach. </p>
+    <p>The Del sol isnt just the best car for your adventers but anamzing car for the track</p>
 </div>
 
 <div class = "about">
