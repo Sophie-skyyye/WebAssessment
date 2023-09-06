@@ -94,3 +94,9 @@ h2{
     justify-content: end;
     font-size: large;
 }
+
+.sidePov{
+    position: relative;
+    width: 250px;
+    padding-right: 50%;
+}

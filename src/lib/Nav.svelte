@@ -27,8 +27,10 @@
     <p>but, that wont stop you from having the best summer of your life. The Del sol </p>
     <p>fetures a removable hard targa-top for the sunny days, personal safes behind the </p>
     <p>seats to store any of your personal items while you are taking a dip at the beach. </p>
-    <p>The Del sol isnt just the best car for your adventers but anamzing car for the track</p>
+    <p>The Del sol isn't just the best car for your adventers but anamzing car for the track</p>
 </div>
+<!-- svelte-ignore a11y-missing-attribute -->
+<img src="images/noRoofSo.PNG" class="sidePov" >
 
 <div class = "about">
     <h4> About</h4>
