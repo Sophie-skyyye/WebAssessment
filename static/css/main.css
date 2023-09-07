@@ -91,7 +91,7 @@ h2{
 
 .dreamText p{
     display: flex;
-    justify-content: end;
+    justify-content: start;
     font-size: large;
 }
 
