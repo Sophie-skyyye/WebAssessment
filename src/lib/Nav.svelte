@@ -6,7 +6,7 @@
         <img src="images/DelSolbadge.PNG" class="badge" >
         <ul>
             <!-- svelte-ignore a11y-missing-attribute -->
-            <li><a herf="#">About</a></li>
+            <li><a href="/about">About</a></li>
             <!-- svelte-ignore a11y-missing-attribute -->
             <li><a herf="#">Specs</a></li>
             <!-- svelte-ignore a11y-missing-attribute -->
