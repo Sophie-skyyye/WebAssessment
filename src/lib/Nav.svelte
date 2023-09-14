@@ -8,7 +8,7 @@
             <!-- svelte-ignore a11y-missing-attribute -->
             <li><a href="/about">About</a></li>
             <!-- svelte-ignore a11y-missing-attribute -->
-            <li><a herf="#">Specs</a></li>
+            <li><a herf="/specs">Specs</a></li>
             <!-- svelte-ignore a11y-missing-attribute -->
             <li><a herf="#">Parts</a></li>
             <!-- svelte-ignore a11y-missing-attribute -->
