@@ -20,3 +20,7 @@
     </ul>                            
 </nav>  
 
+<!-- svelte-ignore a11y-media-has-caption -->
+<video width= 100% controls>
+    <source src="webAboutvid.mp4" type="video/mp4">
+  </video>
