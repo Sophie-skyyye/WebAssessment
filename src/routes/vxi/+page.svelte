@@ -1,21 +1,20 @@
 <nav>
-    <!-- svelte-ignore a11y-missing-content -->
-    <a href="/specs"></a>
-</nav>
-
-<nav>
     <!-- svelte-ignore a11y-missing-attribute -->
     <img src="images/Hondalogo.PNG" class="logo" >
     <!-- svelte-ignore a11y-missing-attribute -->
-    <img src="images/DelSolbadge.PNG" class="badge" >
+   
     <ul>
         <!-- svelte-ignore a11y-missing-attribute -->
-        <li><a href="/about">About</a></li>
+        <li><a href="/vxi">VXI</a></li>
         <!-- svelte-ignore a11y-missing-attribute -->
-        <li><a herf="/specs">Specs</a></li>
+        <li><a herf="/sir">SIR</a></li>
         <!-- svelte-ignore a11y-missing-attribute -->
-        <li><a herf="#">Parts</a></li>
+        <li><a herf="#">S</a></li>
         <!-- svelte-ignore a11y-missing-attribute -->
-        <li><a herf="#">Builds</a></li>
+        <li><a herf="#">SI</a></li>
+        <li><a herf="#">ESI</a></li>
+        <li><a herf="#">VTI</a></li>
     </ul>                            
 </nav>   
+
+<div class = "zero-sixty">6 s</div>
