@@ -4,10 +4,10 @@
     <!-- svelte-ignore a11y-missing-attribute -->
    
     <ul>
+        <!-- svelte-ignore a11y-invalid-attribute -->
+        <li><a href="#">VXI</a></li>
         <!-- svelte-ignore a11y-missing-attribute -->
-        <li><a href="/vxi">VXI</a></li>
-        <!-- svelte-ignore a11y-missing-attribute -->
-        <li><a herf="/sir">SIR</a></li>
+        <li><a herf="#">SIR</a></li>
         <!-- svelte-ignore a11y-missing-attribute -->
         <li><a herf="#">S</a></li>
         <!-- svelte-ignore a11y-missing-attribute -->
