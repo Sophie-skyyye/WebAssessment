@@ -4,11 +4,11 @@
         <img src="images/logo.PNG" class="logo">
         <ul>
             <li><a href="/vxi">VXI</a></li>
-            <li><a href="#">SIR</a></li>
-            <li><a href="#">S</a></li>
-            <li><a href="#">SI</a></li>
-            <li><a href="#">ESI</a></li>
-            <li><a href="#">VTI</a></li>
+            <li><a href="/sir">SIR</a></li>
+            <li><a href="/s">S</a></li>
+            <li><a href="/si">SI</a></li>
+            <li><a href="/esi">ESI</a></li>
+            <li><a href="/vti">VTI</a></li>
         </ul>
         <a href="https://www.crxdelsol.fr/Faq/WorkShop/the_del_Sol_guide_full.pdf" class="btn">Service Manual</a>
     </nav>
