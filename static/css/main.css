@@ -8,7 +8,6 @@
 header{
     width: 100%;
     height: 100vh;
-    background-image: url("..\images\VXI-bum.PNG"); 
     background-color: black;
     background-blend-mode: multiply;
     background-position: center;
@@ -17,7 +16,11 @@ header{
 }
 body{
     height: 100vh;
-    background-image: url("../images/VXI-bum.PNG");
+    background-image: url("../images/DelSolOpening.png");
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    padding: 0 7%;
 }
 
 nav{
@@ -44,12 +47,12 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 nav .btn{
-    color: black;
+    color: white;
     text-decoration: none;
-    border: 1px solid black;
+    border: 1px solid white;
     padding: 5px 10px;
     border-radius: 20px;
     margin: 2%;
@@ -60,7 +63,7 @@ nav .btn{
     padding: 0 7%;
     display: flex;
     align-items: center;
-    color: black;
+    color: white;
     position: fixed;
     bottom: 50px;
     left: 0;
@@ -74,6 +77,6 @@ nav .btn{
 }
 .info .line{
     flex: 1;
-    background: black;
+    background: white;
     height: 4px;
 }
