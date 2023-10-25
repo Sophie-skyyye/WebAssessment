@@ -8,12 +8,16 @@
 header{
     width: 100%;
     height: 100vh;
-    background-image: url("../images/VXI-bum.PNG");
+    background-image: url("..\images\VXI-bum.PNG"); 
     background-color: black;
     background-blend-mode: multiply;
     background-position: center;
     background-size: cover;
     padding: 0 7%;
+}
+body{
+    height: 100vh;
+    background-image: url("../images/VXI-bum.PNG");
 }
 
 nav{
