@@ -10,5 +10,6 @@
             <li><a href="#">ESI</a></li>
             <li><a href="#">VTI</a></li>
         </ul>
+        <a href="#" class="btn">Service Manual</a>
     </nav>    
 </div>
