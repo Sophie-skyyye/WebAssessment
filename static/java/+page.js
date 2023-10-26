@@ -1,4 +1,4 @@
-var header = document.getElementById("header");
+var header = document.getElementById("body");
 var vXi = document.getElementById("vxi");
 var sIr = document.getElementById("sir");
 var sI = document.getElementById("si");
@@ -7,16 +7,16 @@ var eSi = document.getElementById("esi");
 var vTi = document.getElementById("vti");
 
 vXi.onclick = function(){
-    header.style.backgroundImage = "url(../images/DelSolOpening.png)";
+    body.style.backgroundImage = "url(../images/DelSolOpening.png)";
 }
 sIr.onclick = function(){
-    header.style.backgroundImage = "url(../images/sir.jpeg)";
+    body.style.backgroundImage = "url(../images/image_2.jpeg)";
 }
 sI.onclick = function(){
-    header.style.backgroundImage = "url(../images/DelSolOpening.png)";
+    body.style.backgroundImage = "url(../images/image_3.png)";
 }
 S.onclick = function(){
-    header.style.backgroundImage = "url(../images/DelSolOpening.png)";
+    body.style.backgroundImage = "url(../images/DelSolOpening.png)";
 }
 eSi.onclick = function(){
     header.style.backgroundImage = "url(../images/DelSolOpening.png)";
