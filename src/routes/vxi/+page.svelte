@@ -3,7 +3,7 @@
         <!-- svelte-ignore a11y-missing-attribute -->
         <img src="images/logo.PNG" class="logo">
         <ul>
-            <li><a href="/vxi" id="vxi">VXI</a></li>
+            <li on:click={changeBackground()}><a href="/vxi" id="vxi">VXI</a></li>
             <li><a href="/sir" id="sir">SIR</a></li>
             <li><a href="/s" id="s">S</a></li>
             <li><a href="/si" id="si">SI</a></li>
