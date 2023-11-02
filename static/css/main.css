@@ -22,6 +22,8 @@ header{
     background-size: cover;
     background-position: center;
     padding: 0 7%;
+    transform: background-image 2s;
+    background-image: url("");
 }
 
 nav{
