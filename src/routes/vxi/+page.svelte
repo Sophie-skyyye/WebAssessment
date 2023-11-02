@@ -1,7 +1,7 @@
-<div class="body" id="header">   
+<div class="body" id="header">
     <div class="info">
         <div>
-            <h2>4.6s</h2>
+            <h2>6s</h2>
             <p>0-60 km</p>
         </div>
         <div>
@@ -9,14 +9,13 @@
             <p>Top Speed</p>
         </div>
         <div>
-            <h2>Yes</h2>
-            <p>VTEC</p>
+            <h2>D15B</h2>
+            <p>Engine</p>
         </div>
-        <div class="line">
-        </div>
+        <div class="line" />
         <div>
             <h2>vxi</h2>
             <p>Japan</p>
         </div>
-    </div>    
+    </div>
 </div>
