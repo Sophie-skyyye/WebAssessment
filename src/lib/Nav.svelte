@@ -14,7 +14,7 @@
     </nav>
     <div class="info">
         <div>
-            <h2>?</h2>
+            <h2>6s</h2>
             <p>0-60 km</p>
         </div>
         <div>
@@ -22,8 +22,8 @@
             <p>Top Speed</p>
         </div>
         <div>
-            <h2>?</h2>
-            <p>Max Range</p>
+            <h2>D15B</h2>
+            <p>Engine</p>
         </div>
         <div class="line">
         </div>
