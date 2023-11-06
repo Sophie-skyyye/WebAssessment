@@ -9,6 +9,7 @@
             <li><a href="/si" id="si">SI</a></li>
             <li><a href="/esi" id="esi">ESI</a></li>
             <li><a href="/vti" id="esi">VTI</a></li>
+            <li><a href="/S2000">S2000</a></li>
         </ul>
         <a href="https://www.crxdelsol.fr/Faq/WorkShop/the_del_Sol_guide_full.pdf" class="btn">Service Manual</a>
     </nav>
