@@ -89,3 +89,10 @@ nav .btn{
     height: auto;
     margin: 1%;
 }
+
+.crxinfo{
+    width: 50%;
+    position: relative;
+    margin-left: 45%;
+    margin-top: -25%;
+}
