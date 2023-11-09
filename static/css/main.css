@@ -96,3 +96,17 @@ nav .btn{
     margin-left: 45%;
     margin-top: -25%;
 }
+.Hondagen{
+    width: 300px;
+    height: auto;
+    margin: 1%;
+    position: flex;
+    margin-top: 1%;
+    margin-left: 75%;
+}
+.hondageninfo{
+    width: 60%;
+    position: relative;
+    margin-left: 2%;
+    margin-top: -37%;  
+}
