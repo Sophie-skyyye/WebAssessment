@@ -17,7 +17,7 @@ header{
 
 .container {
     width: 100%;
-    height: 100vh; /* Set your desired height */
+    height: 100vh; 
     background-blend-mode: multiply;
     background-size: cover;
     background-position: center;
@@ -57,7 +57,7 @@ nav .btn{
     text-decoration: none;
     border: 1px solid white;
     padding: 5px 10px;
-    border-radius: 20px;
+    border-radius: 20px; /*makes the border have curved sides */
     margin: 2%;
 }
 
@@ -84,19 +84,19 @@ nav .btn{
     height: 4px;
 }
 
-.CRX{
+.CRX{ /*controls my first api image*/
     width: 500px;
     height: auto;
     margin: 1%;
 }
 
-.crxinfo{
+.crxinfo{ /*moves the crxinfo paragraph to the left in up*/
     width: 50%;
     position: relative;
     margin-left: 45%;
     margin-top: -25%;
 }
-.Hondagen{
+.Hondagen{ /*moves second api image below the crxinfo paragraph*/
     width: 300px;
     height: auto;
     margin: 1%;
@@ -104,7 +104,7 @@ nav .btn{
     margin-top: 1%;
     margin-left: 75%;
 }
-.hondageninfo{
+.hondageninfo{ /*moved paragraph to below the first api image*/
     width: 60%;
     position: relative;
     margin-left: 2%;

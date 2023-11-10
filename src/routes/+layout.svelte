@@ -1,11 +1,10 @@
 <script>
     let backgroundImage = "../images/image_2.jpg";
 
-    function changeBackgroundImage(image) {
+    //Changes the background image of the container element to the specified image.
+    function changeBackgroundImage(image) {  //The path to the new background image.
         backgroundImage = `url('${image}')`;
     }
-  
-
 </script>
 
 <svelte:head>
@@ -19,7 +18,8 @@
         <!-- svelte-ignore a11y-missing-attribute -->
         <img src="images/logo.PNG" class="logo" />
         <ul>
-            <li on:click={() => changeBackgroundImage("../images/DelSolOpening.png")}><a href="/vxi">VXI</a></li>
+            <li on:click={() => changeBackgroundImage("../images/DelSolOpening.png")}><a href="/vxi">VXI</a></li> 
+            <!-- Changes the background image to "image_7.jpg" when the "SIR" link is clicked. -->
             <li on:click={() => changeBackgroundImage("../images/image_7.jpg")}><a href="/sir">SIR</a></li>
             <li on:click={() => changeBackgroundImage("../images/image_3.png")}><a href="/s">S</a></li>
             <li on:click={() => changeBackgroundImage("../images/image_5.png")}><a href="/si">SI</a></li>
