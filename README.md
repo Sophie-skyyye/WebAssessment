@@ -56,23 +56,36 @@ This project aims to create an informative web application dedicated to the CRX 
 
 ### Known Bugs/Issues
 There seems to be a bit of lag from the background image when flipping through the pages.
+There is definetly lag with the back grounds when you first load of the page and go staight to the 
+history page the 'history background image' wont load and insteaed it will be the default backgroud image 
+![image](https://github.com/Sophie-skyyye/WebAssessment/assets/131939901/571cdd72-27e3-4e39-9140-8991b3a9c531)
+im currenly in the history page, but if you just clivk on another page and then back to the 
+history page its back to normal.
 
 ### Planned/Future Features
-Implement a search function to allow the user to search for parts.
-Include a comparison feature to compare different models side by side.
-Enhance the design for a more visually appealing experience.
-Integrate a feedback system for users to provide suggestions or report issues.
+- Implement a search function to allow the user to search for parts.
+- Include a comparison feature to compare different models side by side.
+- Enhance the design for a more visually appealing experience.
 
 ### Screenshots
 Vxi page code 
 <img width="450" alt="VXIcode_capture" src="https://github.com/Sophie-skyyye/WebAssessment/assets/131939901/bb506714-6d3f-428e-8ea9-c0f17cf9ffb0">
 
-Vxi page results 
+Vxi page results v1
 <img width="828" alt="VXIpage_capture" src="https://github.com/Sophie-skyyye/WebAssessment/assets/131939901/7b8ab454-98da-474b-a83e-9b68d35b3c28">
+Vxi page v2 
+theres not much diffrens in terms of info or look but there is an exta link called history
+![image](https://github.com/Sophie-skyyye/WebAssessment/assets/131939901/3f4f98f3-1ded-4b68-98b1-429c86070b10)
+
+The history link leades to another page 
+![image](https://github.com/Sophie-skyyye/WebAssessment/assets/131939901/7e9596aa-4eab-4530-8d64-0c98da96e7c7)
+![image](https://github.com/Sophie-skyyye/WebAssessment/assets/131939901/eb7dadf2-fa46-4010-8df0-06912c7043c7)
+![image](https://github.com/Sophie-skyyye/WebAssessment/assets/131939901/c1f7c0c2-7a5b-4509-a7b0-b57f165d3f29)
+The history page just has some basic info about the crx and the crx del sol along with the images being api
 	
 ### Development Guidelines
 - Adhere to ES6 JavaScript standards throughout the project.
-- Follow best coding practices, such as DRY (Don't Repeat Yourself) principle, for clean and maintainable code.
+- Follow best coding practices, such as DRY (Don't Repeat Yourself) principle, for clean code.
 - Commit frequently to ensure proper version control and backup of the codebase.
 
 ### Resources
